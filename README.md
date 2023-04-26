@@ -1,3 +1,2 @@
 # SDiZO_Projekt
-Projekt Struktury Danych i Złożoność Obliczeniowa
-Projekt 1.
+Projekt 1. Struktury Danych i Złożoność Obliczeniowa
